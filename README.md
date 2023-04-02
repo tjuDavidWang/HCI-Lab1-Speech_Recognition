@@ -2,8 +2,6 @@
 
 HCI Lab1-1：Automatic Speech Recognition
 
----
-
 # 1. Enivronment
 
 - **Pycharm** Community Edition 2022.1.3
