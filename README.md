@@ -9,8 +9,9 @@ HCI Lab1-1：Automatic Speech Recognition
 
 # 2. Introduction
 
-<aside>
+
 **Innovation Points：**
+
 ① Using different GIF stands for different period
   
 ② The voice assistant Salexa can read out the text if the website is connected
@@ -21,7 +22,6 @@ HCI Lab1-1：Automatic Speech Recognition
   
 ⑤ Use multi-threading to make the GUI more interactive
 
-</aside>
 
 # 3. Structure
 
